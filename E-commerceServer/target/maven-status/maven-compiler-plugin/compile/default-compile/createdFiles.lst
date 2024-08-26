@@ -1,0 +1,5 @@
+org\springbootdemo\ecommerceserver\Controller\ProductController.class
+org\springbootdemo\ecommerceserver\Service\ProductService.class
+org\springbootdemo\ecommerceserver\Entity\Product.class
+org\springbootdemo\ecommerceserver\Repository\ProductRepo.class
+org\springbootdemo\ecommerceserver\ECommerceServerApplication.class
